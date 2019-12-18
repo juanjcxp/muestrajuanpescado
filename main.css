@@ -34,6 +34,18 @@ section p{
     color: red;
 }
 
+.cuadro{
+    width: 300px;
+    background: yellow;
+    text-align: center;
+    height: 50px;
+}
+
+.cuadro p{
+    padding-top: 15px;
+    color: red;
+}
+
 footer{
     width: 960px;
     background: black;
